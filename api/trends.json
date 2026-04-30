@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T07:43:26.157564+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-04-30T09:32:09.804180+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 09时32分]"
         },
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 09时32分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 06时44分]"
+        },
+        {
+          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
+          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 09时32分]"
         },
         {
           "title": "特朗普再次无视英王室规矩拍国王肩膀",
@@ -58,6 +69,17 @@
           "time_info": "[01时14分 ~ 07时43分]"
         },
         {
+          "title": "特朗普：乌克兰在军事上已被击败",
+          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 09时32分]"
+        },
+        {
           "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
           "url": "https://www.zhihu.com/question/2032828585195434245",
           "source": "知乎",
@@ -70,26 +92,28 @@
           "time_info": "[01时14分 ~ 07时43分]"
         },
         {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
+          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
+          "url": "https://www.cls.cn/detail/2360318",
+          "source": "财联社热门",
           "ranks": [
+            2,
             1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时43分 ~ 07时43分]"
+          "time_info": "[07时42分 ~ 09时32分]"
         },
         {
-          "title": "特朗普：乌克兰在军事上已被击败",
-          "url": "https://news.ifeng.com/c/8sjXJBe2YkG",
-          "source": "凤凰网",
+          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
+          "url": "https://www.zhihu.com/question/2032422954055776061",
+          "source": "知乎",
           "ranks": [
-            2
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时43分 ~ 07时43分]"
+          "time_info": "[07时42分 ~ 09时32分]"
         },
         {
           "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？是为了缓和中美之间的科技和人才竞争吗？",
@@ -104,6 +128,17 @@
           "time_info": "[04时48分 ~ 06时44分]"
         },
         {
+          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
+          "url": "https://wallstreetcn.com/articles/3771197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 09时32分]"
+        },
+        {
           "title": "特朗普：乌克兰在军事上已被击败",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9C%A8%E5%86%9B%E4%BA%8B%E4%B8%8A%E5%B7%B2%E8%A2%AB%E5%87%BB%E8%B4%A5",
           "source": "百度热搜",
@@ -115,26 +150,17 @@
           "time_info": "[07时42分 ~ 07时43分]"
         },
         {
-          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
-          "url": "https://www.cls.cn/detail/2360318",
-          "source": "财联社热门",
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
           "ranks": [
-            2
+            14,
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
-        },
-        {
-          "title": "特朗普解雇 NSF 的国家科学委员会全体成员，释放出什么样的信号？",
-          "url": "https://www.zhihu.com/question/2032422954055776061",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 09时32分]"
         },
         {
           "title": "特朗普称乌克兰在军事上已败？或将伊朗混淆",
@@ -172,17 +198,6 @@
           "time_info": "[03时04分 ~ 05时50分]"
         },
         {
-          "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
-          "url": "https://wallstreetcn.com/articles/3771197",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时14分 ~ 07时43分]"
-        },
-        {
           "title": "特朗普称赞英特尔(INTC.O)股价上涨。",
           "url": "https://flash.jin10.com/detail/20260430062207215800",
           "source": "金十数据",
@@ -207,27 +222,51 @@
           "time_info": "[05时50分 ~ 06时44分]"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 07时43分]"
-        },
-        {
           "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
           "url": "https://www.zhihu.com/question/2032758360743883157",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 09时32分]"
+        },
+        {
+          "title": "普京与特朗普通话1个半小时",
+          "url": "https://www.toutiao.com/trending/7634319454465166874/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 09时32分]"
+        },
+        {
+          "title": "普京与特朗普通话超一个半小时",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 09时32分]"
+        },
+        {
+          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
+          "url": "https://www.cls.cn/detail/2360313",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
+          "time_info": "[09时31分 ~ 09时32分]"
         },
         {
           "title": "特朗普：英特尔股价继续上涨。",
@@ -254,15 +293,26 @@
           "time_info": "[06时44分 ~ 07时43分]"
         },
         {
-          "title": "普京与特朗普通话1个半小时",
-          "url": "https://www.toutiao.com/trending/7634319454465166874/",
-          "source": "今日头条",
+          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
+          "url": "https://www.cls.cn/detail/2360339",
+          "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "普京与特朗普通话一个半小时，涉及众多议题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33080621",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         },
         {
           "title": "特朗普：向普京建议俄乌实施短期停火",
@@ -275,17 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时43分]"
-        },
-        {
-          "title": "普京与特朗普通话超一个半小时",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%E8%B6%85%E4%B8%80%E4%B8%AA%E5%8D%8A%E5%B0%8F%E6%97%B6",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
         },
         {
           "title": "特朗普称将尽量多公布UFO相关信息",
@@ -327,9 +366,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "亚马逊考虑重启《学徒》真人秀 特朗普长子有望担任主持人",
+          "url": "https://flash.jin10.com/detail/20260430091757966800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         },
         {
           "title": "特朗普置评阿联酋退出OPEC：太棒了。",
@@ -371,9 +421,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "德总理淡化与特朗普分歧 称彼此关系“依然良好”",
+          "url": "https://wallstreetcn.com/livenews/3097042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
+          "title": "默茨批美国“被伊朗羞辱”，特朗普回怼：考虑从德国撤军",
+          "url": "https://flash.jin10.com/detail/20260430091008005800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         },
         {
           "title": "美国总统特朗普：与俄罗斯总统普京讨论了伊朗问题，谈话不错。 如果伊朗不达成协议，我将摧毁剩余的导弹和系统。 普京愿意在伊朗铀浓缩问题上提供帮助。",
@@ -415,7 +487,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -508,6 +580,17 @@
           "time_info": "06时44分"
         },
         {
+          "title": "据华尔街日报：消息人士透露，特朗普政府告知Anthropic，反对扩大对Mythos模型的访问权限。",
+          "url": "https://flash.jin10.com/detail/20260430090057317800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
+        },
+        {
           "title": "美国总统特朗普：美国正在研究和评估可能减少在德国驻军的事宜，将在短期内作出决定。",
           "url": "https://flash.jin10.com/detail/20260430055020322800",
           "source": "金十数据",
@@ -528,12 +611,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "“特朗普关税”首批退款将于5月11日左右发放",
+          "url": "https://wallstreetcn.com/livenews/3097025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -595,8 +689,32 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 09时32分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 09时32分]"
+        },
+        {
+          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 09时32分]"
         },
         {
           "title": "伊朗战争丨伊朗议长：敌人正发起新一轮攻势，我们要团结",
@@ -627,20 +745,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        },
-        {
-          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 07时43分]"
         },
         {
           "title": "外媒：美国计划在中东部署高超音速导弹，以备打击伊朗",
@@ -691,27 +798,38 @@
           "time_info": "[04时49分 ~ 05时50分]"
         },
         {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时43分 ~ 07时43分]"
-        },
-        {
           "title": "美称伊朗战事已耗资250亿美元",
           "url": "https://www.toutiao.com/trending/7633391016129298441/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时42分 ~ 09时32分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032954547836907965",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "伊朗海军：将向敌人展示一种可怕武器",
+          "url": "https://www.toutiao.com/trending/7633278639656992810/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         },
         {
           "title": "伊朗战争丨五角大楼：伊朗战事已“烧掉”250亿美元",
@@ -742,7 +860,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -888,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美媒：美政府寻求“没收”两艘与伊朗关联油轮",
+          "url": "https://wallstreetcn.com/livenews/3097030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时32分"
         }
       ]
     },
@@ -909,27 +1038,29 @@
           "time_info": "[01时14分 ~ 06时44分]"
         },
         {
-          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
-          "url": "https://wallstreetcn.com/articles/3771214",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 07时43分]"
-        },
-        {
           "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
           "url": "https://www.cls.cn/detail/2360291",
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时43分 ~ 09时32分]"
+        },
+        {
+          "title": "美联储34年最大分歧叠加油价飙升，美债重挫，美股横盘，美元走强，黄金三连跌",
+          "url": "https://wallstreetcn.com/articles/3771214",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[06时43分 ~ 07时43分]"
+          "time_info": "[07时42分 ~ 09时32分]"
         },
         {
           "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
@@ -1195,8 +1326,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 09时32分]"
         },
         {
           "title": "国际金价继续回撤至4500美元附近",
@@ -1225,7 +1356,7 @@
     },
     {
       "keyword_group": "房价 楼市",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "深圳楼市“五一”前放大招：核心区增购房资格 上调公积金额度",
@@ -1239,8 +1370,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 07时43分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 09时32分]"
+        },
+        {
+          "title": "深圳楼市政策调整，深户家庭可在核心区购买 3 套，非深户（一年社保）可买 2 套，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032898043591312151",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
+        },
+        {
+          "title": "楼市调控释放何新信号",
+          "url": "https://www.toutiao.com/trending/7633062766739521577/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 09时32分]"
         }
       ]
     }
