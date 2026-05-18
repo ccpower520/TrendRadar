@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-18T07:46:05.366773+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-05-18T09:58:26.585321+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3772457",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 09时58分]"
         },
         {
           "title": "伊朗宣布5月19日起恢复股票市场交易",
@@ -34,11 +35,12 @@
           "url": "https://news.ifeng.com/c/8tCiiAKahND",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 09时58分]"
         },
         {
           "title": "胡锡进：卡利巴夫任伊朗对华事务特别代表，蕴含着重大动向",
@@ -48,8 +50,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 09时58分]"
+        },
+        {
+          "title": "伊朗宣布5月19日起恢复股票市场交易",
+          "url": "https://www.cls.cn/detail/2373254",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 09时58分]"
         },
         {
           "title": "消息人士：美方在回应伊朗提议时列出5个关键条件",
@@ -61,19 +75,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时46分]"
-        },
-        {
-          "title": "伊朗宣布5月19日起恢复股票市场交易",
-          "url": "https://www.cls.cn/detail/2373254",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 09时58分]"
         },
         {
           "title": "韩国要求伊朗就韩船只在霍尔木兹海峡遭袭表明立场",
@@ -362,7 +365,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         }
@@ -370,7 +373,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普刚结束访华，普京便宣布访华，为什么选在这个时间？背后可能有哪些深意？",
@@ -394,11 +397,12 @@
           "ranks": [
             14,
             15,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 09时58分]"
         },
         {
           "title": "特朗普访华后续观察",
@@ -412,6 +416,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 05时43分]"
+        },
+        {
+          "title": "特朗普威胁伊朗，又开始倒计时了",
+          "url": "https://news.ifeng.com/c/8tDfE3dOA2C",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "伊朗还剩多少导弹？特朗普称仅18%，伊方称有120%",
+          "url": "https://news.ifeng.com/c/8tCj0YcwzIz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         },
         {
           "title": "特朗普此次访华，会对资本市场产生哪些影响？哪些产业受影响更为显著？",
@@ -566,6 +592,17 @@
           "time_info": "[06时42分 ~ 07时46分]"
         },
         {
+          "title": "特朗普访华后，日本慌了？日媒急了！",
+          "url": "https://www.cls.cn/detail/2373281",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）：特朗普对以色列媒体表示，‘伊朗应当感到恐惧，并对我保持警惕。’",
           "url": "https://flash.jin10.com/detail/20260518010104759800",
           "source": "金十数据",
@@ -583,7 +620,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -669,8 +706,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 07时46分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 09时58分]"
         },
         {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
@@ -678,11 +715,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时42分 ~ 07时46分]"
+          "appearance_count": 5,
+          "time_info": "[06时42分 ~ 09时58分]"
         },
         {
           "title": "美股股指期货周一小幅低开，其中道指期货跌0.3%。",
@@ -726,6 +764,23 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 07时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "恋情",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝黄奕新恋情",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E9%BB%84%E5%A5%95%E6%96%B0%E6%81%8B%E6%83%85%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时57分 ~ 09时58分]"
         }
       ]
     }
