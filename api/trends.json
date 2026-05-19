@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T13:59:45.603887+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-05-19T17:34:00.805649+08:00",
+  "total_titles_processed": 1154,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "外交部回应特朗普涉台表态",
@@ -99,6 +99,20 @@
           "time_info": "[01时23分 ~ 07时54分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 17时34分]"
+        },
+        {
           "title": "特朗普称将推迟对伊朗发动军事打击",
           "url": "https://www.cls.cn/detail/2374774",
           "source": "财联社热门",
@@ -126,17 +140,15 @@
           "time_info": "[01时23分 ~ 06时03分]"
         },
         {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时59分]"
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "默克尔：不要低估特朗普",
@@ -181,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时22分"
+        },
+        {
+          "title": "特朗普连发15张图分享“中国记忆”",
+          "url": "https://news.ifeng.com/c/8tFAH622lBt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 17时34分]"
         },
         {
           "title": "美国总统特朗普：（对伊朗的）袭击原定于明天进行。",
@@ -275,17 +298,6 @@
           "time_info": "[06时02分 ~ 09时58分]"
         },
         {
-          "title": "特朗普连发15张图分享“中国记忆”",
-          "url": "https://news.ifeng.com/c/8tFAH622lBt",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时59分]"
-        },
-        {
           "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
           "url": "https://www.cls.cn/detail/2374803",
           "source": "财联社热门",
@@ -307,6 +319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时54分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "美国总统特朗普宣布扩大折扣药品定价计划。",
@@ -348,7 +371,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -403,7 +426,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -565,7 +588,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 37,
+      "match_count": 45,
       "titles": [
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
@@ -577,8 +600,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 17时34分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -637,8 +660,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时23分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 17时34分]"
         },
         {
           "title": "伊朗成立管理霍尔木兹海峡新机构",
@@ -682,7 +705,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -696,6 +719,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "伊朗最高领袖重申将考虑开辟新战线",
+          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 17时34分]"
         },
         {
           "title": "伊朗在伊斯法罕启用防空系统。（迈赫尔通讯社）",
@@ -758,15 +793,27 @@
           "time_info": "[05时02分 ~ 06时03分]"
         },
         {
-          "title": "伊朗最高领袖重申将考虑开辟新战线",
-          "url": "https://news.ifeng.com/c/8tEZfWCwrAM",
-          "source": "凤凰网",
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            15,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时59分]"
+          "time_info": "[13时59分 ~ 17时34分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2039842544964429579",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 17时34分]"
         },
         {
           "title": "伊朗通过巴基斯坦提交14点谈判文本",
@@ -835,15 +882,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "美以袭击伊朗进入第 81 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2039842544964429579",
-          "source": "知乎",
+          "title": "卡塔尔外交部：卡塔尔外交部长与沙特外交部长通话，双方回顾了两国间的合作关系及其支持和加强的方式，并讨论了地区局势的发展，特别是与美国和伊朗之间停火相关的情况，各方有必要响应当前的调解努力，以便通过和平手段和对话解决危机根源，并达成可持续协议，防止局势升级。",
+          "url": "https://flash.jin10.com/detail/20260519170554733800",
+          "source": "金十数据",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "17时34分"
         },
         {
           "title": "伊朗官员：美国自设打击的最后期限又自行取消",
@@ -857,6 +904,28 @@
           "time_info": "05时02分"
         },
         {
+          "title": "伊朗称在东南部摧毁4个极端组织武装小组",
+          "url": "https://wallstreetcn.com/livenews/3105928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "伊朗议会发展委员会成员：如果战争和对抗发生，伊朗有能力以同等水平甚至比敌人预设情景更强大的方式作出回应。",
+          "url": "https://flash.jin10.com/detail/20260519170315355800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "CNBC记者：美国官员表示，伊朗国家媒体关于美国同意在谈判期间解除石油制裁的报道是虚假的。",
           "url": "https://wallstreetcn.com/livenews/3105528",
           "source": "华尔街见闻-快讯",
@@ -868,15 +937,15 @@
           "time_info": "01时24分"
         },
         {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
+          "title": "伊朗议会发展委员会成员：谈判必须建立在尊重和接受伊朗人民合法权利的基础上。我不希望国家陷入战争状态，因为战争会损害基础设施和人民。",
+          "url": "https://flash.jin10.com/detail/20260519170307198800",
+          "source": "金十数据",
           "ranks": [
             15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "17时34分"
         },
         {
           "title": "沙特消息称：伊朗提出有条件地将浓缩铀转移至俄罗斯",
@@ -888,6 +957,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "伊朗议会发展委员会成员：伊朗从未是战争的挑起者，伊朗从未离开过谈判桌。",
+          "url": "https://flash.jin10.com/detail/20260519170255156800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "【美官员否认美国同意谈判期间暂时豁免对伊朗石油制裁】一名美国官员表示，伊朗方面关于“美国已同意在谈判进行期间解除对伊朗石油制裁”的消息是“虚假的”。当天早些时候，伊朗方面援引谈判团队相关消息人士的话称，美国在最新谈判文本中，已同意在谈判期间对伊朗石油制裁实施临时豁免。（央视）",
@@ -951,7 +1031,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -967,6 +1047,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "伊朗议员贾赫拉米：关闭霍尔木兹海峡是对敌人裁的一种反制行动。已故领袖曾说过，总有一天我们会制裁他们，那个时刻现在已经到来。",
+          "url": "https://flash.jin10.com/detail/20260519165900391800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "伊朗在格什姆岛发现美以无人机。（塔斯尼姆通讯社）",
           "url": "https://wallstreetcn.com/livenews/3105574",
           "source": "华尔街见闻-快讯",
@@ -976,6 +1067,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "伊朗议员贾赫拉米：如果有人以为通过军事干预就能打开海峡，那是一种虚妄的幻想。",
+          "url": "https://flash.jin10.com/detail/20260519165839180800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
+          "title": "伊朗议员贾赫拉米：霍尔木兹海峡是伊朗的“永久资产”，将以“全力”进行防卫。",
+          "url": "https://flash.jin10.com/detail/20260519165812754800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "伊朗格什姆岛防空系统启动",
@@ -992,18 +1105,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
           "url": "https://wallstreetcn.com/articles/3772473",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时02分 ~ 13时59分]"
+          "appearance_count": 9,
+          "time_info": "[06时02分 ~ 17时34分]"
         },
         {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
@@ -1060,11 +1174,12 @@
           "url": "https://www.cls.cn/detail/2374855",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 17时34分]"
         },
         {
           "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
@@ -1161,6 +1276,17 @@
           "time_info": "05时02分"
         },
         {
+          "title": "禾赛美股盘前涨超8%，公司2026年第一季度净收入6.81亿元，同比增长29.6%；净利润1830万元。",
+          "url": "https://wallstreetcn.com/livenews/3105925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
+        },
+        {
           "title": "周一（5月18日），美股AI软件先驱指数涨1.76%，报107.43点。 15只成分股普遍收涨，ServiceNOW涨8.78%，ESTC涨6.54%，GitLab涨6.04%，MongoDB、HubSpot、ServiceNOW、Salesforce、Adobe、C3.ai至少涨1.16%，铿腾电子、新思科技则至多收跌0.79%，甲骨文跌3.29%。",
           "url": "https://wallstreetcn.com/livenews/3105605",
           "source": "华尔街见闻-快讯",
@@ -1197,8 +1323,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "马斯克起诉OpenAI为何败诉",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B5%B7%E8%AF%89OpenAI%E4%B8%BA%E4%BD%95%E8%B4%A5%E8%AF%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
+        },
         {
           "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
           "url": "https://flash.jin10.com/detail/20260519043702372800",
@@ -1221,6 +1358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "软银推出400亿美元的银团贷款计划，所得款项将用于支持软银对美国人工智能巨头OpenAI的投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时34分"
         },
         {
           "title": "马斯克：（关于OpenAI 裁决）法官和陪审团实际上从未对案件的是非曲直做出裁决，只是针对日程上的一个技术性问题进行了裁定。",
@@ -1281,7 +1429,7 @@
     },
     {
       "keyword_group": "房价 楼市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "4 月一线城市房价环比上涨，二三线降幅收窄，怎样解读？楼市真稳住了吗？二三线城市何时跟涨？",
@@ -1309,6 +1457,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时23分 ~ 09时58分]"
+        },
+        {
+          "title": "全国楼市真回暖了吗",
+          "url": "https://www.toutiao.com/trending/7641479205745593897/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 17时34分]"
         },
         {
           "title": "北京二手房房价三连涨",
@@ -1339,6 +1498,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时57分 ~ 17时34分]"
+        },
+        {
           "title": "金价跳水 黑金首饰受追捧",
           "url": "https://www.toutiao.com/trending/7640315819964645412/",
           "source": "今日头条",
@@ -1348,18 +1520,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
-        },
-        {
-          "title": "现货黄金一度跌破4500美元，机构现分歧：摩根大通下调金价预测、高盛仍唱多",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33194540",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时57分 ~ 13时59分]"
         },
         {
           "title": "金价跳水 黑金首饰受追捧",
