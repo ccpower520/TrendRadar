@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T13:32:01.497713+08:00",
-  "total_titles_processed": 878,
+  "generated_at": "2026-05-23T16:03:16.694761+08:00",
+  "total_titles_processed": 997,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时02分 ~ 13时32分]"
+          "appearance_count": 16,
+          "time_info": "[01时02分 ~ 16时03分]"
         },
         {
           "title": "伊朗“最大内鬼”，原来是他？",
@@ -31,6 +31,17 @@
           "time_info": "[01时02分 ~ 09时49分]"
         },
         {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
+          "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 16时03分]"
+        },
+        {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
           "url": "https://wallstreetcn.com/articles/3772777",
           "source": "华尔街见闻",
@@ -40,17 +51,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 06时47分]"
-        },
-        {
-          "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
-          "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 13时32分]"
         },
         {
           "title": "伊朗官员：结束战争、解除封锁以及确保霍尔木兹海峡稳定是优先事项",
@@ -65,48 +65,15 @@
           "time_info": "[04时28分 ~ 09时49分]"
         },
         {
-          "title": "据以色列第12频道：以色列官员证实，以色列与华盛顿达成协议，禁止伊朗保留铀浓缩能力。",
-          "url": "https://flash.jin10.com/detail/20260523131449442800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "据以色列第12频道：以色列密切关注美国与伊朗的协议草案，担心德黑兰可能在未解决核问题的情况下获得制裁缓解。",
-          "url": "https://flash.jin10.com/detail/20260523131241043800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3108317",
+          "title": "消息人士：伊朗军方已制定新方案 随时应对敌方挑衅",
+          "url": "https://wallstreetcn.com/livenews/3108324",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "据以色列第12频道：以色列军方宣布进入最高警戒状态，以防与伊朗可能发生的局势升级。",
-          "url": "https://flash.jin10.com/detail/20260523131157063800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "time_info": "16时03分"
         },
         {
           "title": "报道：伊朗军方准备好应对美方任何行动",
@@ -122,6 +89,29 @@
           "time_info": "[05时56分 ~ 07时56分]"
         },
         {
+          "title": "伊朗关闭西部空域",
+          "url": "https://news.ifeng.com/c/8tMBeOfwbPm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 16时03分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列官员证实，以色列与华盛顿达成协议，禁止伊朗保留铀浓缩能力。",
+          "url": "https://flash.jin10.com/detail/20260523131449442800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
+        },
+        {
           "title": "【伊朗外交部发言人：伊美分歧严重，难言协议接近达成】伊朗外交部发言人巴加埃22日表示，当前无法断言伊美协议已接近达成，双方分歧依然严重。据伊朗媒体22日报道，巴加埃谈及巴基斯坦高级官员访问德黑兰时说，这表明当前局势已进入“转折点或决定性阶段”。他提到，巴基斯坦陆军参谋长穆尼尔已访问德黑兰，相关沟通仍在进行中。在回答“这是否意味着谈判进程发生变化”时，巴加埃说，目前不能说伊美协议已接近达成，伊美之间存在严重且广泛的分歧，“外交是一个耗时的过程”。巴加埃说，不能期待通过数轮往返磋商，就可能在数周或数月内看到结果。他强调，外交谈判本身是长期过程，双方正利用各种机会传递各自立场。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3108205",
           "source": "华尔街见闻-快讯",
@@ -132,6 +122,53 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时57分 ~ 04时28分]"
+        },
+        {
+          "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3108317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
+        },
+        {
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://news.ifeng.com/c/8tMFvbzrOEf",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 16时03分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列密切关注美国与伊朗的协议草案，担心德黑兰可能在未解决核问题的情况下获得制裁缓解。",
+          "url": "https://flash.jin10.com/detail/20260523131241043800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
+        },
+        {
+          "title": "据以色列第12频道：以色列军方宣布进入最高警戒状态，以防与伊朗可能发生的局势升级。",
+          "url": "https://flash.jin10.com/detail/20260523131157063800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
         },
         {
           "title": "伊媒：知情人士称伊朗谈判仍在继续 所有争议问题形成共识前不会达成协议",
@@ -145,26 +182,16 @@
           "time_info": "[04时28分 ~ 07时56分]"
         },
         {
-          "title": "伊朗关闭西部空域",
-          "url": "https://news.ifeng.com/c/8tMBeOfwbPm",
-          "source": "凤凰网",
+          "title": "伊朗外长与巴基斯坦陆军参谋长会谈",
+          "url": "https://wallstreetcn.com/livenews/3108314",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时32分]"
-        },
-        {
-          "title": "伊朗警告若再遭袭将开启战斗3.0",
-          "url": "https://news.ifeng.com/c/8tMFvbzrOEf",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时32分]"
+          "time_info": "[13时32分 ~ 16时03分]"
         },
         {
           "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
@@ -191,6 +218,42 @@
           "time_info": "[09时49分 ~ 13时32分]"
         },
         {
+          "title": "伊朗警告若再遭袭将开启战斗3.0",
+          "url": "https://wallstreetcn.com/livenews/3108310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
+        },
+        {
+          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
+          "url": "https://wallstreetcn.com/livenews/3108305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
+        },
+        {
+          "title": "伊朗关闭西部空域",
+          "url": "https://wallstreetcn.com/livenews/3108304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
+        },
+        {
           "title": "伊朗外长与联合国秘书长通话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3108240",
           "source": "华尔街见闻-快讯",
@@ -214,17 +277,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "伊朗外长与巴基斯坦陆军参谋长会谈",
-          "url": "https://wallstreetcn.com/livenews/3108314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "媒体称美伊已就核问题的总体框架达成谅解 伊朗外交部紧急辟谣",
           "url": "https://flash.jin10.com/detail/20260523015051423800",
           "source": "金十数据",
@@ -242,7 +294,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -278,17 +330,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "伊朗警告若再遭袭将开启战斗3.0",
-          "url": "https://wallstreetcn.com/livenews/3108310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         },
         {
           "title": "伊朗外交部发言人：尚无即将达成的协议。",
@@ -335,35 +376,13 @@
           "time_info": "02时57分"
         },
         {
-          "title": "海湾五国反对伊朗设立“波斯湾海峡管理局”",
-          "url": "https://wallstreetcn.com/livenews/3108305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "巴基斯坦陆军参谋长与伊朗外长深夜会晤 讨论防止局势升级等议题",
           "url": "https://flash.jin10.com/detail/20260523120953607800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "伊朗关闭西部空域",
-          "url": "https://wallstreetcn.com/livenews/3108304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -377,6 +396,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐与阿曼外交大臣通话，讨论防止局势升级的外交努力。",
+          "url": "https://flash.jin10.com/detail/20260523143356791800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
@@ -429,7 +459,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -517,7 +547,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -528,15 +558,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "伊朗外长：美国要求过分、立场矛盾 阻碍谈判进程",
+          "url": "https://flash.jin10.com/detail/20260523131925707800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普声称要与赖清德通话，美媒分析后果",
@@ -570,8 +611,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 16时03分]"
         },
         {
           "title": "特朗普将强制要求申请绿卡的外国人回国申请",
@@ -598,17 +639,6 @@
           "time_info": "[04时27分 ~ 06时47分]"
         },
         {
-          "title": "据以色列第12频道：安全机构正在为特朗普可能在未来几天内决定对伊朗采取军事行动做好准备。",
-          "url": "https://flash.jin10.com/detail/20260523131327066800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "美国商务部长卢特尼克捍卫总统特朗普入股英特尔的做法，要求一名法官驳回该公司股东有关这笔交易涉嫌政府非法持股的指控。",
           "url": "https://wallstreetcn.com/livenews/3108172",
           "source": "华尔街见闻-快讯",
@@ -631,6 +661,41 @@
           "time_info": "[07时55分 ~ 13时32分]"
         },
         {
+          "title": "特朗普周末坐镇白宫：若谈判破裂，或对伊朗发动“决定性打击”",
+          "url": "https://news.ifeng.com/c/8tMHNGJri8m",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 16时03分]"
+        },
+        {
+          "title": "据以色列第12频道：安全机构正在为特朗普可能在未来几天内决定对伊朗采取军事行动做好准备。",
+          "url": "https://flash.jin10.com/detail/20260523131327066800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
+        },
+        {
+          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
+          "url": "https://www.zhihu.com/question/2041148892323000444",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时30分 ~ 16时03分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗永远不会拥有核武器，他们知道这一点。",
           "url": "https://wallstreetcn.com/livenews/3108245",
           "source": "华尔街见闻-快讯",
@@ -642,17 +707,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时56分 ~ 07时56分]"
-        },
-        {
-          "title": "特朗普周末坐镇白宫：若谈判破裂，或对伊朗发动“决定性打击”",
-          "url": "https://news.ifeng.com/c/8tMHNGJri8m",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时32分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。",
@@ -667,15 +721,15 @@
           "time_info": "[04时28分 ~ 05时56分]"
         },
         {
-          "title": "美官员称特朗普政府开始制定对古巴军事行动方案，美国为何盯上古巴？目前古巴局势如何？",
-          "url": "https://www.zhihu.com/question/2041148892323000444",
-          "source": "知乎",
+          "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
+          "url": "https://wallstreetcn.com/articles/3772968",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时32分]"
+          "time_info": "[16时02分 ~ 16时03分]"
         },
         {
           "title": "特朗普向沃什施压",
@@ -688,6 +742,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时47分]"
+        },
+        {
+          "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
+          "url": "https://wallstreetcn.com/livenews/3108300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
         },
         {
           "title": "报道：特朗普周五会见了伊朗问题高级顾问",
@@ -868,17 +934,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
-          "url": "https://wallstreetcn.com/livenews/3108300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "美国总统特朗普：沃什将限制美联储的前瞻性指引做法。",
           "url": "https://flash.jin10.com/detail/20260523000313038800",
           "source": "金十数据",
@@ -912,6 +967,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "伊朗国防部发言人：除非美国总统特朗普接受伊朗人民的要求并尊重伊朗的权利，否则他将面临进一步的失败。",
+          "url": "https://flash.jin10.com/detail/20260523140156237800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "特朗普：将缺席儿子的婚礼",
           "url": "https://wallstreetcn.com/livenews/3108183",
           "source": "华尔街见闻-快讯",
@@ -929,7 +995,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         }
@@ -948,8 +1014,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 16时03分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -961,8 +1027,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时55分 ~ 13时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时55分 ~ 16时03分]"
         },
         {
           "title": "金十图示：2026年05月22日（周五）美股热门股票行情一览（美股盘中）",
@@ -1111,11 +1177,12 @@
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 13时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时49分 ~ 16时03分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -1186,11 +1253,12 @@
           "url": "https://wallstreetcn.com/livenews/3108307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 16时03分]"
         }
       ]
     }
