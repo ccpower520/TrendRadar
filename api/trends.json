@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T22:25:01.419526+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-05-30T23:58:06.236498+08:00",
+  "total_titles_processed": 1420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 22时25分]"
+          "appearance_count": 6,
+          "time_info": "[20时57分 ~ 23时58分]"
         },
         {
           "title": "美称敲定“谅解备忘录”遭伊朗否认",
@@ -51,6 +51,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时24分 ~ 08时02分]"
+        },
+        {
+          "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
+          "url": "https://wallstreetcn.com/livenews/3111832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时25分 ~ 23时58分]"
         },
         {
           "title": "伊朗准备为阿里·哈梅内伊举行盛大葬礼",
@@ -75,15 +87,15 @@
           "time_info": "01时25分"
         },
         {
-          "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
-          "url": "https://wallstreetcn.com/livenews/3111832",
+          "title": "联合海上信息中心：美军仍在封锁伊朗港口",
+          "url": "https://wallstreetcn.com/livenews/3111834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时25分"
+          "time_info": "23时58分"
         },
         {
           "title": "伊朗对科威特的空军基地发动导弹袭击 数名美国人员受伤",
@@ -95,6 +107,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
+          "url": "https://wallstreetcn.com/livenews/3111819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时58分]"
         },
         {
           "title": "据伊朗Press TV：伊朗陆军防空部队今天早些时候在格什姆岛上空击落了一架“Orbiter”攻击型无人机。",
@@ -121,18 +146,6 @@
           "time_info": "[19时10分 ~ 20时58分]"
         },
         {
-          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
-          "url": "https://wallstreetcn.com/livenews/3111819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时25分]"
-        },
-        {
           "title": "据伊朗法尔斯通讯社：在过去的24小时内，20艘船在伊朗海军的协调下通过了霍尔木兹海峡。",
           "url": "https://flash.jin10.com/detail/20260530184239283800",
           "source": "金十数据",
@@ -157,6 +170,19 @@
           "time_info": "[04时04分 ~ 08时02分]"
         },
         {
+          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
+          "url": "https://flash.jin10.com/detail/20260530201304741800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时58分]"
+        },
+        {
           "title": "美国财长贝森特：（被问及对伊朗的封锁）任何解除的措施都将逐步进行。关于伊朗存在三种情景：达成协议、未达成协议或采取军事行动。",
           "url": "https://flash.jin10.com/detail/20260530033749981800",
           "source": "金十数据",
@@ -169,28 +195,17 @@
           "time_info": "[04时04分 ~ 08时02分]"
         },
         {
-          "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
-          "url": "https://flash.jin10.com/detail/20260530201304741800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时25分]"
-        },
-        {
           "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
           "url": "https://flash.jin10.com/detail/20260530200112317800",
           "source": "金十数据",
           "ranks": [
             8,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时58分]"
         },
         {
           "title": "据纽约邮报：美国和伊朗将何时敲定谅解备忘录尚不清楚。",
@@ -505,7 +520,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
@@ -518,8 +533,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时23分 ~ 22时25分]"
+          "appearance_count": 18,
+          "time_info": "[06时23分 ~ 23时58分]"
         },
         {
           "title": "美法官裁定将特朗普名字从肯尼迪中心移除",
@@ -543,8 +558,22 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[14时13分 ~ 23时58分]"
+        },
+        {
+          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
+          "url": "https://www.zhihu.com/question/2043956365022814533",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10,
+            12,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[14时13分 ~ 22时25分]"
+          "time_info": "[17时08分 ~ 23时58分]"
         },
         {
           "title": "特朗普力挺橄榄球运动员：他长得真帅，真希望我也能长这样",
@@ -556,19 +585,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时08分 ~ 19时10分]"
-        },
-        {
-          "title": "特朗普就结束伊朗战事提出条件，伊朗必须同意永远不拥有核武器，霍尔木兹海峡必须立即开放，伊方会接受吗？",
-          "url": "https://www.zhihu.com/question/2043956365022814533",
-          "source": "知乎",
-          "ranks": [
-            6,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时08分 ~ 22时25分]"
         },
         {
           "title": "特朗普如何让一个格陵兰激进独立斗士变成“爱国者”",
@@ -606,6 +622,31 @@
           "time_info": "[17时09分 ~ 19时10分]"
         },
         {
+          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时24分 ~ 23时58分]"
+        },
+        {
+          "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
+          "url": "https://wallstreetcn.com/livenews/3111814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时58分]"
+        },
+        {
           "title": "美国财长贝森特：我从未偏袒过沃什。特朗普决定任命沃什为美联储主席。",
           "url": "https://flash.jin10.com/detail/20260530033635502800",
           "source": "金十数据",
@@ -616,6 +657,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时04分 ~ 08时02分]"
+        },
+        {
+          "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
+          "url": "https://wallstreetcn.com/livenews/3111801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时58分]"
         },
         {
           "title": "特朗普肖像纪念钞能流通吗",
@@ -629,39 +683,15 @@
           "time_info": "[10时53分 ~ 10时54分]"
         },
         {
-          "title": "白宫公布特朗普年度体检报告：增重超6公斤，腿部肿胀已经减轻",
-          "url": "https://wallstreetcn.com/livenews/3111814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时25分]"
-        },
-        {
-          "title": "一图看懂｜“不听话就炸掉”，特朗普威胁/攻击过哪些国家？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33265548",
+          "title": "美国法官裁定将特朗普名字从肯尼迪中心移除",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33270121",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时24分 ~ 22时25分]"
-        },
-        {
-          "title": "被“除名” 遭停工 特朗普最新回应：震惊 史上最不公对待",
-          "url": "https://wallstreetcn.com/livenews/3111801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时25分]"
+          "time_info": "[23时57分 ~ 23时58分]"
         },
         {
           "title": "特朗普名字被判从肯尼迪中心移除",
@@ -922,8 +952,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时01分 ~ 22时25分]"
+          "appearance_count": 16,
+          "time_info": "[08时01分 ~ 23时58分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -953,6 +983,20 @@
           "time_info": "[01时24分 ~ 06时24分]"
         },
         {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时09分 ~ 23时58分]"
+        },
+        {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260530040526961800",
           "source": "金十数据",
@@ -973,19 +1017,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 08时02分]"
-        },
-        {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时09分 ~ 22时25分]"
         },
         {
           "title": "停火预期压制油价，AI热潮推涨美股，标普九周连涨，戴尔暴涨33%，黄金冲高回落",
@@ -1183,11 +1214,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 22时25分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 23时58分]"
         },
         {
           "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
