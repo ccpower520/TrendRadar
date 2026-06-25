@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T09:59:07.422406+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-06-25T14:03:06.778878+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -129,8 +129,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 14时03分]"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "time_info": "[14时02分 ~ 14时03分]"
         },
         {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
@@ -177,6 +188,17 @@
           "time_info": "06时06分"
         },
         {
+          "title": "战争烧钱停不下来：白宫再要876亿拨款，特朗普会晤军工巨头催产能",
+          "url": "https://flash.jin10.com/detail/20260625132125150800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "特朗普：不接受美伊协议包含任何涉及航运的费用",
           "url": "https://wallstreetcn.com/livenews/3124247",
           "source": "华尔街见闻-快讯",
@@ -186,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时06分"
+        },
+        {
+          "title": "特朗普：委内瑞拉强震造成惨重死亡",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%BA%E9%9C%87%E9%80%A0%E6%88%90%E6%83%A8%E9%87%8D%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         },
         {
           "title": "特朗普：美方将参与国际原子能机构对伊朗核查行动",
@@ -287,6 +320,28 @@
           "time_info": "06时06分"
         },
         {
+          "title": "民调：特朗普支持率再次跌至34%",
+          "url": "https://www.toutiao.com/trending/7653743693962477606/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
+          "title": "特朗普：委内瑞拉强震造成惨重死亡",
+          "url": "https://wallstreetcn.com/livenews/3124436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "美国总统特朗普：北约秘书长吕特做得不错。 我往往会与吕特取得进展。 对德国、法国、西班牙感到失望。",
           "url": "https://wallstreetcn.com/livenews/3124229",
           "source": "华尔街见闻-快讯",
@@ -307,12 +362,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时27分"
+        },
+        {
+          "title": "特朗普：委内瑞拉地震后，美国已准备好提供帮助。已指示各机构做好准备，迅速采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3124431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -354,9 +420,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 14时03分]"
         },
         {
           "title": "伊朗：签谅解备忘录表明“美国战败”",
@@ -369,17 +447,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 04时26分]"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "美国国务卿鲁比奥：我们期望伊朗履行其义务。",
@@ -437,6 +504,17 @@
           "time_info": "00时16分"
         },
         {
+          "title": "美总统称或无法查明谁袭击了伊朗小学",
+          "url": "https://www.toutiao.com/trending/7655095667781877786/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "据半岛电视台：伊朗官员称以色列应对“整个地区的问题”负责。",
           "url": "https://flash.jin10.com/detail/20260625000122154800",
           "source": "金十数据",
@@ -454,7 +532,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -492,13 +570,24 @@
           "time_info": "04时26分"
         },
         {
+          "title": "伊朗队滞留机场",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E6%BB%9E%E7%95%99%E6%9C%BA%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：在未经伊朗协调的情况下宣布新的霍尔木兹海峡航线，是不可接受且危险的。 只有通过伊朗指定的航线，才有可能安全通过霍尔木兹海峡。 通过霍尔木兹海峡过境的船只，必须在16频道与革命卫队海军进行协调。 革命卫队海军警告，违反过境指令的船只将面临行动。",
           "url": "https://wallstreetcn.com/livenews/3124338",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         }
@@ -532,8 +621,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时05分 ~ 09时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时05分 ~ 14时03分]"
         },
         {
           "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
@@ -545,6 +634,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 04时26分]"
+        },
+        {
+          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
+          "url": "https://www.cls.cn/detail/2408547",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 14时03分]"
         },
         {
           "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
@@ -590,18 +692,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
-          "url": "https://www.cls.cn/detail/2408547",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 09时59分]"
         },
         {
           "title": "美光科技(MU.O)美股盘后涨幅扩大至7.5%。",
@@ -684,7 +774,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -703,11 +793,12 @@
           "url": "https://www.cls.cn/detail/2408544",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时58分 ~ 14时03分]"
         },
         {
           "title": "金价回落刺激刚需消费回暖",
@@ -719,6 +810,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时03分"
         }
       ]
     },
