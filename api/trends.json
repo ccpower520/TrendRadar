@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T13:50:36.596723+08:00",
-  "total_titles_processed": 1003,
+  "generated_at": "2026-07-10T16:56:19.611669+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时19分 ~ 06时12分]"
+        },
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时56分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时56分 ~ 16时56分]"
         },
         {
           "title": "伊朗发射巡航导弹袭击美国舰艇",
@@ -43,30 +67,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时25分 ~ 13时50分]"
-        },
-        {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时50分]"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时56分 ~ 13时50分]"
         },
         {
           "title": "伊朗称发射导弹摧毁美军一指挥中心",
@@ -405,7 +405,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -473,8 +473,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时50分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时56分]"
+        },
+        {
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 16时56分]"
         },
         {
           "title": "特朗普协议埋下“定时炸弹”：一个模糊条款引爆霍尔木兹海峡控制权争夺",
@@ -483,7 +496,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -499,16 +512,16 @@
           "time_info": "00时20分"
         },
         {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
+          "title": "特朗普“把自己困住了”，陷入两难",
+          "url": "https://news.ifeng.com/c/8uddEUs34xh",
           "source": "凤凰网",
           "ranks": [
-            6,
+            8,
             7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时50分]"
+          "time_info": "[13时49分 ~ 16时56分]"
         },
         {
           "title": "以色列总理办公室：美国总统特朗普通报美方在海湾地区的行动。",
@@ -521,17 +534,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时32分 ~ 06时12分]"
-        },
-        {
-          "title": "特朗普“把自己困住了”，陷入两难",
-          "url": "https://news.ifeng.com/c/8uddEUs34xh",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
         },
         {
           "title": "特朗普重启对伊朗打击 共和党担忧拖累中期选举",
@@ -629,7 +631,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -676,6 +678,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "以色列媒体：以愿参与对伊打击 正等特朗普表态",
+          "url": "https://wallstreetcn.com/livenews/3131864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
@@ -701,11 +714,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时56分 ~ 16时56分]"
+        },
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时56分 ~ 13时50分]"
+          "time_info": "[09时25分 ~ 16时56分]"
         },
         {
           "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
@@ -718,17 +743,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时19分 ~ 09时26分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时50分]"
         },
         {
           "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
@@ -869,7 +883,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价 OpenAI 正式推出的 GPT-5.6 系列模型？使用体验如何？",
@@ -898,11 +912,23 @@
           "url": "https://wallstreetcn.com/articles/3776605",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时49分 ~ 16时56分]"
+        },
+        {
+          "title": "如何看待 Codex 与 ChatGPT 合并，实际使用体验有什么变化？",
+          "url": "https://www.zhihu.com/question/2058849029027632241",
+          "source": "知乎",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "time_info": "[16时55分 ~ 16时56分]"
         },
         {
           "title": "OpenAI：微软将通过API调用其模型，向Microsoft 365客户推出GPT-5.6服务。",
