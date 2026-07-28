@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T08:04:28.788797+08:00",
-  "total_titles_processed": 638,
+  "generated_at": "2026-07-28T11:56:11.956626+08:00",
+  "total_titles_processed": 846,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -38,8 +38,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 11时56分]"
+        },
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
+          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -70,7 +81,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -81,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时04分"
         },
@@ -95,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时03分 ~ 11时56分]"
         },
         {
           "title": "五角大楼被曝对乌援助要拖到特朗普卸任年",
@@ -131,17 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时02分 ~ 08时04分]"
-        },
-        {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时03分 ~ 08时04分]"
         },
         {
           "title": "据纽约邮报：以色列总理内塔尼亚胡将向美国总统特朗普提供伊朗“镐山”核设施情报。",
@@ -249,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时00分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
@@ -620,7 +642,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股",
@@ -676,6 +698,19 @@
           "time_info": "[01时26分 ~ 05时00分]"
         },
         {
+          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
+          "url": "https://www.cls.cn/detail/2438385",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 11时56分]"
+        },
+        {
           "title": "美股迎芯片风暴 苹果重返市值第一",
           "url": "https://www.toutiao.com/trending/7667348037127114246/",
           "source": "今日头条",
@@ -709,16 +744,26 @@
           "time_info": "[06时01分 ~ 06时02分]"
         },
         {
-          "title": "美股收盘：阿斯麦、英伟达领衔“芯片风暴” 苹果重返全球市值第一",
-          "url": "https://www.cls.cn/detail/2438385",
-          "source": "财联社热门",
+          "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
+          "url": "https://wallstreetcn.com/articles/3778058",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时01分 ~ 08时04分]"
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
+          "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
+          "url": "https://www.cls.cn/detail/2438605",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "加密货币市场于美股盘初跳水",
@@ -743,6 +788,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时00分 ~ 06时02分]"
+        },
+        {
+          "title": "7月28日投资避雷针：美股费城半导体指数创5月20日以来收盘新低 英伟达跌约5%",
+          "url": "https://www.cls.cn/detail/2438430",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
@@ -790,6 +846,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时00分 ~ 06时02分]"
+        },
+        {
+          "title": "美股芯片股“血流成河”",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E2%80%9C%E8%A1%80%E6%B5%81%E6%88%90%E6%B2%B3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "金十图示：2026年07月27日（周一）热门中概股行情一览（美股收盘）",
@@ -852,7 +919,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -939,6 +1006,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "分析师：停火是美方主动之举，非伊朗屈服于空袭",
+          "url": "https://flash.jin10.com/detail/20260728112634272800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊拉克国家安全顾问称，乌克兰情报小组正在伊拉克境内实施袭击，并将其嫁祸于抵抗组织。伊拉克有关机构已逮捕一些人员和相关成员，他们在审讯中承认，乌克兰情报小组曾针对伊拉克政府设施发动袭击。",
           "url": "https://flash.jin10.com/detail/20260728044945651800",
           "source": "金十数据",
@@ -972,6 +1050,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时03分 ~ 08时04分]"
+        },
+        {
+          "title": "泽连斯基：与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
@@ -1055,7 +1144,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI失控入侵,遭索赔1亿算力",
@@ -1063,11 +1152,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 08时04分]"
+          "appearance_count": 13,
+          "time_info": "[01时26分 ~ 11时56分]"
         },
         {
           "title": "OpenAI的CEO Altman预计本周将在美国华盛顿特区会见财长贝森特与商务部长卢特尼克。（Politico）",
@@ -1080,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时02分]"
+        },
+        {
+          "title": "OpenAI Codex产品负责人Tibo：所有Codex和ChatGPT Work付费用户的使用额度已重置。",
+          "url": "https://flash.jin10.com/detail/20260728111059185800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
         }
       ]
     },
