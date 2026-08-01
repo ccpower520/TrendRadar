@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:26:12.044709+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-08-01T13:15:14.736644+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -38,11 +38,12 @@
           "ranks": [
             11,
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[01时15分 ~ 13时15分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -80,6 +81,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时55分 ~ 09时26分]"
+        },
+        {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时15分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -152,15 +165,26 @@
           "time_info": "[05时55分 ~ 07时51分]"
         },
         {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "time_info": "[13时14分 ~ 13时15分]"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
@@ -185,6 +209,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时48分]"
+        },
+        {
+          "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
@@ -454,7 +489,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -480,26 +515,42 @@
           "time_info": "[01时15分 ~ 03时04分]"
         },
         {
+          "title": "伊朗打击美军空中任务后勤保障枢纽",
+          "url": "https://www.douyin.com/hot/2591858",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时55分 ~ 13时15分]"
+        },
+        {
           "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
           "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时15分]"
         },
         {
           "title": "伊朗警告打击美以能源基础设施",
           "url": "https://news.ifeng.com/c/8vE5HdfLPru",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时15分]"
         },
         {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
@@ -558,22 +609,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
         {
-          "title": "伊朗打击美军空中任务后勤保障枢纽",
-          "url": "https://www.douyin.com/hot/2591858",
-          "source": "抖音",
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://wallstreetcn.com/articles/3778449",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            18,
-            15
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时55分 ~ 09时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 13时15分]"
         },
         {
           "title": "【伊朗警告打击美以能源基础设施】8月1日获悉，针对美国方面有关美国和以色列可能对伊朗基础设施发动袭击的消息，一名伊朗高级安全官员称，类似消息属“无稽之谈”。该安全官员表示，伊朗已制定一项全面计划，包括打击以色列关键基础设施及地区内美国能源基础设施等，伊方已做好充分准备。（央视）",
@@ -613,17 +663,6 @@
           "time_info": "[05时55分 ~ 07时51分]"
         },
         {
-          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
-          "url": "https://wallstreetcn.com/articles/3778449",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
           "title": "伊朗警告打击美以能源基础设施",
           "url": "https://wallstreetcn.com/livenews/3143506",
           "source": "华尔街见闻-快讯",
@@ -634,6 +673,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时51分 ~ 09时26分]"
+        },
+        {
+          "title": "伊朗：已制定计划应对潜在美以袭击",
+          "url": "https://www.toutiao.com/trending/7668829809023402026/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 13时15分]"
         },
         {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
@@ -717,8 +767,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[01时15分 ~ 13时15分]"
         },
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -754,8 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 09时26分]"
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 13时15分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -898,7 +948,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -942,6 +992,19 @@
           "time_info": "[04时51分 ~ 07时51分]"
         },
         {
+          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
+          "url": "https://wallstreetcn.com/articles/3778448",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时51分 ~ 13时15分]"
+        },
+        {
           "title": "OpenAI：GPT-5.4和GPT-5.4mini将从8月31日起不再向登录ChatGPT的用户提供。 这些模型仍将在OpenAI API以及使用API密钥进行身份验证的Codex会话中继续提供。",
           "url": "https://wallstreetcn.com/livenews/3143487",
           "source": "华尔街见闻-快讯",
@@ -978,18 +1041,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时55分]"
-        },
-        {
-          "title": "OpenAI：我们黑了不止一家公司，Anthropic：我也是",
-          "url": "https://wallstreetcn.com/articles/3778448",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 09时26分]"
         },
         {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
@@ -1085,7 +1136,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
