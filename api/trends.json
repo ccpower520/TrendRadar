@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T20:53:02.456109+08:00",
-  "total_titles_processed": 1437,
+  "generated_at": "2026-08-04T23:15:01.548294+08:00",
+  "total_titles_processed": 1578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -64,11 +64,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 20时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时52分 ~ 23时15分]"
         },
         {
           "title": "美25州联手，特朗普关税再遭阻击",
@@ -175,6 +176,18 @@
           "time_info": "[12时52分 ~ 18时25分]"
         },
         {
+          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
+          "url": "https://wallstreetcn.com/articles/3778597",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时25分 ~ 23时15分]"
+        },
+        {
           "title": "（美国总统特朗普的）加沙和平委员会：我们今日与内塔尼亚胡及其团队会面，旨在推动加沙地区解除武装，并为过渡至文官政府做准备。 我们重申，以色列撤至黄线以外的行动，只有在加沙实现全面解除武装之后方可实施。",
           "url": "https://wallstreetcn.com/livenews/3144297",
           "source": "华尔街见闻-快讯",
@@ -209,18 +222,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时52分 ~ 15时31分]"
-        },
-        {
-          "title": "有史以来最大规模铜流入！7月20万吨铜运抵美国，市场等待特朗普铜关税裁决",
-          "url": "https://wallstreetcn.com/articles/3778597",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时25分 ~ 20时53分]"
         },
         {
           "title": "美国参议院投票，有望围绕临时性融资草案通过程序性投票，该权宜性融资方案将帮助特朗普的联邦政府有资金持续运作至12月11日。",
@@ -321,6 +322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国总统特朗普：已请求参议员达琳·格雷厄姆参加8月11日的共和党特别初选，她已接受。",
+          "url": "https://flash.jin10.com/detail/20260804225055245800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "特朗普政府拟放宽奥巴马时期北极油气钻探规定",
@@ -645,7 +657,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -657,6 +669,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时39分 ~ 07时58分]"
+        },
+        {
+          "title": "伊朗总统回应辞职传闻",
+          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时15分]"
         },
         {
           "title": "美军被曝群发邮件“众筹”对付伊朗方案，美方辩称是创新",
@@ -682,15 +706,15 @@
           "time_info": "[20时52分 ~ 20时53分]"
         },
         {
-          "title": "伊朗总统回应辞职传闻",
-          "url": "https://news.ifeng.com/c/8vJpAoU2QSK",
+          "title": "美财长透露与伊朗达成协议的时间",
+          "url": "https://news.ifeng.com/c/8vJy6Up6oyy",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "伊朗：乌克兰道歉了",
@@ -715,6 +739,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
+        },
+        {
+          "title": "据伊朗Press TV：知情人士表示，尽管受到美国的干扰，伊朗与阿曼关于霍尔木兹海海峡航线的谈判已进入新阶段。若美国及其他国家的干扰停止，伊朗与阿曼达成双边谅解指日可待。",
+          "url": "https://flash.jin10.com/detail/20260804231339108800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "消息人士：美国在伊朗战争中已消耗大量的远程精确导弹",
@@ -802,6 +837,17 @@
           "time_info": "[04时52分 ~ 07时58分]"
         },
         {
+          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
+          "url": "https://www.cls.cn/detail/2445217",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 23时15分]"
+        },
+        {
           "title": "伊朗放话让美军回到石器时代",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%94%BE%E8%AF%9D%E8%AE%A9%E7%BE%8E%E5%86%9B%E5%9B%9E%E5%88%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -850,17 +896,6 @@
           "time_info": "[01时40分 ~ 03时15分]"
         },
         {
-          "title": "霍尔木兹复航现曙光？美伊官员称伊朗与阿曼接近达成协议",
-          "url": "https://www.cls.cn/detail/2445217",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时52分 ~ 20时53分]"
-        },
-        {
           "title": "伊朗布什尔省省长：南帕尔斯气田的6000万立方米天然气产能已恢复生产。",
           "url": "https://flash.jin10.com/detail/20260804034848736800",
           "source": "金十数据",
@@ -871,6 +906,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时57分]"
+        },
+        {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.douyin.com/hot/2596757",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "伊朗谴责美沙联合打击伊拉克民兵武装",
@@ -934,7 +980,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -981,6 +1027,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美国国务卿卢比奥：伊朗与阿曼的会谈取得进展。",
+          "url": "https://wallstreetcn.com/livenews/3144817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
         },
         {
           "title": "伊朗与阿曼讨论的海峡临时方案或给予伊对入境船运的完全控制权",
@@ -1165,7 +1222,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -1173,7 +1230,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -1184,8 +1241,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时58分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[07时58分 ~ 23时15分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -1376,6 +1433,17 @@
           "time_info": "[07时58分 ~ 09时25分]"
         },
         {
+          "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2445568",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
           "title": "周一（8月3日）纽约尾盘，现货黄金涨0.21%，报4054.95美元/盎司，亚太盘初高开至4080.87美元刷新日高，随后震荡下行、21:38刷新日低至4019.30美元。 COMEX黄金期货涨0.15%，报4113美元/盎司。 现货白银涨1.01%，报58.18美元/盎司，美股盘初也曾刷新日低至56.5694美元。 COMEX白银期货涨1.08%，报58.400美元/盎司。 COMEX铜期货涨0.65%，报6.5490美元/磅。 现货铂金跌1%，现货钯金跌1.30%。",
           "url": "https://wallstreetcn.com/livenews/3144358",
           "source": "华尔街见闻-快讯",
@@ -1439,7 +1507,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -1514,11 +1582,12 @@
             13,
             17,
             21,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时39分 ~ 20时53分]"
+          "appearance_count": 20,
+          "time_info": "[01时39分 ~ 23时15分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -1592,6 +1661,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "土耳其央行行长卡拉汉：通胀回落将继续影响租金价格。国内需求放缓。",
+          "url": "https://flash.jin10.com/detail/20260804230303443800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时15分"
+        },
+        {
+          "title": "油价与收益率双降，但仍未能换来金价突破",
+          "url": "https://flash.jin10.com/detail/20260804121541109800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1642,19 +1739,19 @@
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "房价 楼市",
       "match_count": 1,
       "titles": [
         {
-          "title": "油价与收益率双降，但仍未能换来金价突破",
-          "url": "https://flash.jin10.com/detail/20260804121541109800",
-          "source": "金十数据",
+          "title": "7月楼市淡季不淡：多城成交同比保持增长，上海豪宅项目开盘日光",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33713617",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         }
       ]
     }
