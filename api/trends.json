@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T18:23:45.754585+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-08-06T20:50:59.660166+08:00",
+  "total_titles_processed": 1440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -28,19 +28,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时14分 ~ 18时23分]"
+          "appearance_count": 8,
+          "time_info": "[09时14分 ~ 20时50分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
           "url": "https://news.ifeng.com/c/8vMnd0UIy30",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 20时50分]"
         },
         {
           "title": "伊朗与阿曼会谈最新细节曝光",
@@ -82,11 +83,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时31分 ~ 18时23分]"
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 20时50分]"
         },
         {
           "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
@@ -158,13 +160,25 @@
           "time_info": "[01时17分 ~ 03时10分]"
         },
         {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 20时50分]"
+        },
+        {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
           "source": "百度热搜",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -202,17 +216,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
-          "url": "https://www.cls.cn/detail/2447200",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
-        },
-        {
           "title": "据伊朗法尔斯通讯社：一名知情人士强调，如果伊朗与阿曼之间的协议最终敲定，重新开放霍尔木兹海峡将需要另行达成安排，其中也包括美国履行相关承诺。",
           "url": "https://flash.jin10.com/detail/20260806004013908800",
           "source": "金十数据",
@@ -230,7 +233,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -312,6 +315,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "专家：伊朗否认与美直接谈判霍尔木兹海峡问题 意在彰显坚定立场",
+          "url": "https://wallstreetcn.com/livenews/3146038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
           "url": "https://wallstreetcn.com/livenews/3145528",
           "source": "华尔街见闻-快讯",
@@ -321,6 +335,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "伊朗官员称将与阿曼敲定霍尔木兹海峡航运安排新协议",
+          "url": "https://wallstreetcn.com/livenews/3146032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
@@ -356,6 +381,17 @@
           "time_info": "04时54分"
         },
         {
+          "title": "国际金年内很难再创新高？伊朗高风险豪赌仍有翻车风险 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260806201116065800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
           "url": "https://flash.jin10.com/detail/20260806035340632800",
           "source": "金十数据",
@@ -370,7 +406,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -567,7 +603,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -592,6 +628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        },
+        {
+          "title": "美退还1000亿美元关税特朗普输了吗",
+          "url": "https://www.toutiao.com/trending/7670860336727068203/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "据华尔街日报：自沃什担任美联储主席以来，美国总统特朗普多次与其通话。",
@@ -882,7 +929,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         },
@@ -1061,11 +1108,12 @@
           "url": "https://www.cls.cn/detail/2447296",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时23分 ~ 20时50分]"
         },
         {
           "title": "国际金价涨超4%，重返4200美元上方",
@@ -1144,7 +1192,7 @@
     },
     {
       "keyword_group": "恋情",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "姆巴佩官宣恋情",
@@ -1167,6 +1215,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时14分 ~ 09时15分]"
+        },
+        {
+          "title": "关之琳否认与27岁模特的恋情",
+          "url": "https://www.toutiao.com/trending/7670557690313179142/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     }
