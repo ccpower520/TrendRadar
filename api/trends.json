@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T09:58:30.208147+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2026-08-07T12:18:47.790417+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时18分]"
         },
         {
           "title": "【早报】特朗普：对多晶硅及其衍生产品加征关税；美存储股再遭重挫；原油走强、黄金微跌；宇树科技发行价定了",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时47分 ~ 09时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 12时18分]"
         },
         {
           "title": "“向特朗普同志致敬！”美国超级抹红大赛开始了",
@@ -38,19 +38,31 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时18分]"
         },
         {
           "title": "特朗普政府禁止钨废料、电池废料出口 以提升关键矿产供应能力",
           "url": "https://www.cls.cn/detail/2447915",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时18分]"
+        },
+        {
+          "title": "泽连斯基要导弹，特朗普最新表态：我们也想要",
+          "url": "https://wallstreetcn.com/livenews/3146430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "特朗普大发雷霆，美防长甩锅，暴露大问题",
@@ -60,8 +72,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时57分 ~ 09时58分]"
+          "appearance_count": 3,
+          "time_info": "[09时57分 ~ 12时18分]"
         },
         {
           "title": "特朗普对多晶硅加征关税",
@@ -75,6 +87,28 @@
           "time_info": "[09时57分 ~ 09时58分]"
         },
         {
+          "title": "特朗普帖子抢先看合法吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%96%E5%AD%90%E6%8A%A2%E5%85%88%E7%9C%8B%E5%90%88%E6%B3%95%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "特朗普宣布对多晶硅及其衍生产品加征关税",
+          "url": "https://wallstreetcn.com/articles/3778896",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
           "title": "特朗普承认某些弹药供应紧张",
           "url": "https://flash.jin10.com/detail/20260807061416820800",
           "source": "金十数据",
@@ -84,6 +118,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        },
+        {
+          "title": "美国将严厉打击“生育旅游” 特朗普承认某些弹药供应紧张 | 环球市场",
+          "url": "https://www.cls.cn/detail/2447932",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "从批评鲍威尔到频繁致电沃什 特朗普对美联储影响力再受关注",
+          "url": "https://www.cls.cn/detail/2447865",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         },
         {
           "title": "特朗普承认部分弹药供应“相对紧张”",
@@ -136,6 +192,19 @@
           "time_info": "[07时47分 ~ 07时48分]"
         },
         {
+          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
+          "url": "https://www.cls.cn/detail/2447874",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 12时18分]"
+        },
+        {
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
           "url": "https://flash.jin10.com/detail/20260807070032047800",
           "source": "金十数据",
@@ -145,18 +214,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
-        },
-        {
-          "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
-          "url": "https://www.cls.cn/detail/2447874",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时47分 ~ 09时58分]"
         },
         {
           "title": "伊朗总统：最高领袖决策过程遭人利用",
@@ -217,19 +274,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时47分 ~ 09时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 12时18分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
           "url": "https://www.cls.cn/detail/2447905",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时47分 ~ 09时58分]"
+          "appearance_count": 5,
+          "time_info": "[07时47分 ~ 12时18分]"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -272,9 +330,26 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价反弹",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     },
